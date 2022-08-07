@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FizzBuzzApplication {
-// main Methode zum Starten der Anwendung
+// main Methode zum Starten der Anwendung, keine Änderungen 
 	public static void main(String[] args) {
 		SpringApplication.run(FizzBuzzApplication.class, args);
 	}
